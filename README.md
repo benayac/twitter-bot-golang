@@ -1,5 +1,7 @@
 # twitter-bot-golang
 
+I am editing the README file. Adding some more details about the project description.
+
 A project for me to learn how to use twitter activity API and golang 
 
 To make your own bot, clone this repo and add config.json to config folder 
